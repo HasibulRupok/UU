@@ -2,3 +2,6 @@
 
 ## Data Structure & Algorithm
 `Book: ` ji
+<p align="justify">
+  Lorem ipsum
+</p>
