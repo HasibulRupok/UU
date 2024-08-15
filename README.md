@@ -1,1 +1,1 @@
-# Hi
+# <center>Centered text</center>
