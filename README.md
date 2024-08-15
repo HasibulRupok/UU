@@ -1,2 +1,4 @@
-# <center>Centered text</center>
-<p style="text-align: center;"> and </p>
+# This repo is used to distribute the course contents to my UU students
+
+## Data Structure & Algorithm
+`Book: ` ji
