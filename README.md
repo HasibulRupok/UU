@@ -13,6 +13,14 @@
 ### Slides:
   1. Introduction & Basic Probability [Click Here](https://docs.google.com/presentation/d/1r-R8gjCHALcWbr1-XQ4GwVrYjrHKfUf4/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
+<hr>
+
+## System Analysis & Design
+
+`Book: System Analysis And Design - Dennis_Wixom_Roth` [Drive Link](https://drive.google.com/file/d/1oDVKDxfttts6Ev9FaygGihyOPYmmpiR9/view?usp=sharing)
+### Slides:
+  1. First Slide [Click Here](https://docs.google.com/presentation/d/1mIi6vTIvwgBqjnDFmLcP3Nv44DeweEUM/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+
 
 
 # Fill Up this form according to your batch:
