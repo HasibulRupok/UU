@@ -21,6 +21,8 @@
 ### Slides:
   1. First Slide [Click Here](https://docs.google.com/presentation/d/1mIi6vTIvwgBqjnDFmLcP3Nv44DeweEUM/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
+### UML Diagrams:
+`https://docs.google.com/presentation/d/1b8jbaOxU0Hse3ybMERHTZk6eM2KP6ZaU/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true`
 
 
 # Fill Up this form according to your batch:
