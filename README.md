@@ -35,7 +35,8 @@
 `https://drive.google.com/file/d/1s5pg4KxYLCnKFJlQPVpkWVZKL-7yGqHX/view?usp=sharing`
 
 # CS
-https://docs.google.com/presentation/d/1s6_BPZhfZPCC4o5l3OI3W0OCKWkJiNFK/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
+1. https://docs.google.com/presentation/d/1s6_BPZhfZPCC4o5l3OI3W0OCKWkJiNFK/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
+2. https://docs.google.com/presentation/d/1XlqPujxJvFjh3h2l5zDmMtJeH2wZR2FP/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true
 
 # OOP
 https://drive.google.com/file/d/1NU_Z1of6-DpGDUqDBIZPDuVkqm2BFcIT/view?usp=sharing
