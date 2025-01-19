@@ -7,4 +7,7 @@
 3. Performance [Slide 3](https://docs.google.com/presentation/d/1z1BaPN-B9Ueo6cScN7T6NMW9LNX1iED4/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 # OOP
-1. [Slide 1](https://drive.google.com/file/d/1NU_Z1of6-DpGDUqDBIZPDuVkqm2BFcIT/view?usp=sharing)
+1. Intro to OOP [Slide 1](https://docs.google.com/presentation/d/1Z5xErgzrhFIHTkWz0fvoeW1JTlxo7WOs/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+2. Java Basic [Slide 2](https://docs.google.com/presentation/d/1jZzKxiIv8uRAQGJtKm3K3AHkrA77JxAr/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+3. Class Object [Slide 3](https://docs.google.com/presentation/d/1wZ5iMI61flaGhCrEtYhPzYMEGs13wizY/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+4. OOP Principles [Slide 4](https://docs.google.com/presentation/d/1BtEEXETO1cpRgJ0nw6Tz4ee4devc9KTw/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
