@@ -11,3 +11,9 @@
 2. Java Basic [Slide 2](https://docs.google.com/presentation/d/1jZzKxiIv8uRAQGJtKm3K3AHkrA77JxAr/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 3. Class Object [Slide 3](https://docs.google.com/presentation/d/1wZ5iMI61flaGhCrEtYhPzYMEGs13wizY/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. OOP Principles [Slide 4](https://docs.google.com/presentation/d/1BtEEXETO1cpRgJ0nw6Tz4ee4devc9KTw/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+
+# AI
+1. Slide-1 [view](https://docs.google.com/presentation/d/1J9hQx8fZ0GKD0Tyj6vNy0Jk_8TMO0Uoc/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+1. Slide-2 [view](https://docs.google.com/presentation/d/1-JpqGdtHhl-efF2EvQN1F3YI62dCi4aC/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+1. Slide-3 [view](https://docs.google.com/presentation/d/1TtsSuGyfUxRGYKTCH-ccEu99nUxUkKqU/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+1. Slide-1 [view]()
