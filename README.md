@@ -8,6 +8,7 @@
 4. [MIPS practice](https://docs.google.com/presentation/d/1Q-z260XrYuoRNOkUJyH7CtDJy7-_eKa4/edit?usp=drive_link&ouid=114419490922214411323&rtpof=true&sd=true)
 5. [MIPS Function Call](https://docs.google.com/presentation/d/1DUqslFUDWHHvxJR-8xASsBIj5UsGnOsz/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 6. [Slide 6](https://docs.google.com/presentation/d/1lcFsB9QS4Rne1KKAdgDKQgcZwjy3REOQ/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+7. [Slide 7, arithmetic](https://docs.google.com/presentation/d/1spvTo85at9Gmrr9FUMr7wFCykxUwLE7k/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 # OOP
 1. Intro to OOP [Slide 1](https://docs.google.com/presentation/d/1Z5xErgzrhFIHTkWz0fvoeW1JTlxo7WOs/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
