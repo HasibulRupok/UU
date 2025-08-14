@@ -8,6 +8,7 @@
 1. Slide-4 [view](https://docs.google.com/presentation/d/1b8jbaOxU0Hse3ybMERHTZk6eM2KP6ZaU/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 2. Slide-5 [view](https://docs.google.com/presentation/d/1pkyvJljBFrCPQUYo1pZYWXlLaVUiFShf/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 3. Slide-6 [View](https://docs.google.com/presentation/d/1M3Y2Yr_YYggDcSXEwQymXtJTPRYNxeP7/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+4. Slide-7 [View](https://docs.google.com/presentation/d/1S2rU2ggBj1eK-TLrTq7WMwbFKQsGpSy1/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 ### Google Classroom for 60F
 Class Code: `tqtt2li2`    <br>
