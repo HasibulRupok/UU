@@ -10,6 +10,9 @@
 3. Slide-6 [View](https://docs.google.com/presentation/d/1M3Y2Yr_YYggDcSXEwQymXtJTPRYNxeP7/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. Slide-7 [View](https://docs.google.com/presentation/d/1S2rU2ggBj1eK-TLrTq7WMwbFKQsGpSy1/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
+## SAD Books:
+1. [SYSTEM ANALYSIS AND DESIGN by DENNIS, WIXOM, ROTH; 5th ed](https://drive.google.com/file/d/1Rfrsm6MMfd2WLhtLbS7s1kE2azQ4yFWR/view?usp=sharing)
+
 ### Google Classroom for 60F
 Class Code: `tqtt2li2`    <br>
 Class Invitation Link: `https://classroom.google.com/c/NzgyOTcyNTUzMzEx?cjc=tqtt2li2`
