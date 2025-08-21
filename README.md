@@ -13,6 +13,10 @@
 ## SAD Books:
 1. [SYSTEM ANALYSIS AND DESIGN by DENNIS, WIXOM, ROTH; 5th ed](https://drive.google.com/file/d/1Rfrsm6MMfd2WLhtLbS7s1kE2azQ4yFWR/view?usp=sharing)
 
+## Sample SRS Document
+1. [SRS 1](https://www.reqview.com/papers/ReqView-Example_Software_Requirements_Specification_SRS_Document.pdf)
+2. [SRS 2](https://m.mu.edu.sa/sites/default/files/content/2019/10/Final%20report.pdf)
+
 ### Google Classroom for 60F
 Class Code: `tqtt2li2`    <br>
 Class Invitation Link: `https://classroom.google.com/c/NzgyOTcyNTUzMzEx?cjc=tqtt2li2`
