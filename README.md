@@ -8,6 +8,11 @@
 
 <hr>
 
+# DLD Theory Materials:
+1. [Combinational Circuit P1](https://docs.google.com/presentation/d/1LwXmuA5q_XDKRt1mWYdYfHa7rsKKPXCf/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+
+<hr>
+
 # Artificial Intelligence Theory Materials:
 1. [Introduction SLide](https://docs.google.com/presentation/d/1J9hQx8fZ0GKD0Tyj6vNy0Jk_8TMO0Uoc/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 2. [Uninformed Search](https://docs.google.com/presentation/d/1-JpqGdtHhl-efF2EvQN1F3YI62dCi4aC/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
