@@ -9,7 +9,8 @@
 <hr>
 
 # DLD Theory Materials:
-1. [Combinational Circuit P1](https://docs.google.com/presentation/d/1LwXmuA5q_XDKRt1mWYdYfHa7rsKKPXCf/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+1. [Intro & Number System](https://docs.google.com/presentation/d/1ZvFK4VzYpXiNkPCqCg-9xnhWO_AjRSmf/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+2. [Combinational Circuit Part-1](https://docs.google.com/presentation/d/1LwXmuA5q_XDKRt1mWYdYfHa7rsKKPXCf/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
 
