@@ -15,4 +15,10 @@ Class Invitation Link: `https://classroom.google.com/c/ODA2NDI1MDE3MzM0?cjc=4a5m
 Class Code : `o7q3gkpk`    <br>
 Class Invitation Link: `https://classroom.google.com/c/ODA2NDI0MzM3MTYx?cjc=o7q3gkpk`
 
+## Google Classroom for 60C Evening
+Class Code : `hrnv6rbj`    <br>
+Class Invitation Link: `https://classroom.google.com/c/ODA2NDM1MTQ4ODY4?cjc=hrnv6rbj`
 
+## Google Classroom for 64B Evening
+Class Code : `otgtklns`    <br>
+Class Invitation Link: `https://classroom.google.com/c/ODA2NDM3MDg5MjYw?cjc=otgtklns`
