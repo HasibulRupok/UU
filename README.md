@@ -6,12 +6,15 @@
 2. Logicim [download](https://drive.google.com/file/d/1gPuxs4ZfL_BFe9F_M7LD9ywfrDlxHRWh/view?usp=drive_link)
 3. Report Template: [view](https://docs.google.com/document/d/1u4ZgMi0xlVZuRypHLOdVEL-pMPRV19xo/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
+<hr>
+
 # Artificial Intelligence Theory Materials:
 1. [Introduction SLide](https://docs.google.com/presentation/d/1J9hQx8fZ0GKD0Tyj6vNy0Jk_8TMO0Uoc/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 2. [Uninformed Search](https://docs.google.com/presentation/d/1-JpqGdtHhl-efF2EvQN1F3YI62dCi4aC/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 3. [Informed Search](https://docs.google.com/presentation/d/1TtsSuGyfUxRGYKTCH-ccEu99nUxUkKqU/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. [CSPs](https://docs.google.com/presentation/d/1Ky5q6IlhR2zCq08mwYqDKe-o9oOflUna/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
+<hr>
 
 ## Google Classroom for 62A
 ### DLD Theory
@@ -26,5 +29,5 @@ Class Code : `hrnv6rbj`    <br>
 Class Invitation Link: `https://classroom.google.com/c/ODA2NDM1MTQ4ODY4?cjc=hrnv6rbj`
 
 ## Google Classroom for 64B Evening
-Class Code : `otgtklns`    <br>
+Class Code: `otgtklns`    <br>
 Class Invitation Link: `https://classroom.google.com/c/ODA2NDM3MDg5MjYw?cjc=otgtklns`
