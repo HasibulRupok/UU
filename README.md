@@ -7,11 +7,12 @@
 3. Report Template: [view](https://docs.google.com/document/d/1u4ZgMi0xlVZuRypHLOdVEL-pMPRV19xo/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 
-### Google Classroom for 60F
-Class Code: `tqtt2li2`    <br>
-Class Invitation Link: `https://classroom.google.com/c/NzgyOTcyNTUzMzEx?cjc=tqtt2li2`
+## Google Classroom for 62A
+### DLD Theory
+Class Code : `4a5mezhf`    <br>
+Class Invitation Link: `https://classroom.google.com/c/ODA2NDI1MDE3MzM0?cjc=4a5mezhf`
+### DLD Lab
+Class Code : `o7q3gkpk`    <br>
+Class Invitation Link: `https://classroom.google.com/c/ODA2NDI0MzM3MTYx?cjc=o7q3gkpk`
 
-### Google Classroom for 60G
-Class Code: `nucru6eo`    <br>
-Class Invitation Link: `https://classroom.google.com/c/NzgyOTcyNDkxNTA1?cjc=nucru6eo`
 
