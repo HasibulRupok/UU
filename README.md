@@ -11,6 +11,7 @@
 # DLD Theory Materials:
 1. [Intro & Number System](https://docs.google.com/presentation/d/1ZvFK4VzYpXiNkPCqCg-9xnhWO_AjRSmf/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 2. [Combinational Circuit Part-1](https://docs.google.com/presentation/d/1LwXmuA5q_XDKRt1mWYdYfHa7rsKKPXCf/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+3. [Combinational Circuit Part-2, Optimization](https://docs.google.com/presentation/d/1LekSHhzIGL7wsS6gIGJ4S2nRFU12QH3W/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
 
