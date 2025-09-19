@@ -5,6 +5,7 @@
 1. Slide: [view](https://docs.google.com/presentation/d/1U-p4dLwOeMJRwt75J84pO-KX2F9iAHhNdp7epJezZ8I/edit?usp=sharing)
 2. Logicim [download](https://drive.google.com/file/d/1gPuxs4ZfL_BFe9F_M7LD9ywfrDlxHRWh/view?usp=drive_link)
 3. Report Template: [view](https://docs.google.com/document/d/1u4ZgMi0xlVZuRypHLOdVEL-pMPRV19xo/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+4. [Dataset](https://drive.google.com/file/d/1Zs0R3cmJ_TVY1UOGTlXsIbXrkHj0CeOs/view?usp=sharing)
 
 <hr>
 
