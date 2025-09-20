@@ -24,18 +24,4 @@
 
 <hr>
 
-## Google Classroom for 62A
-### DLD Theory
-Class Code : `4a5mezhf`    <br>
-Class Invitation Link: `https://classroom.google.com/c/ODA2NDI1MDE3MzM0?cjc=4a5mezhf`
-### DLD Lab
-Class Code : `o7q3gkpk`    <br>
-Class Invitation Link: `https://classroom.google.com/c/ODA2NDI0MzM3MTYx?cjc=o7q3gkpk`
-
-## Google Classroom for 60C Evening
-Class Code : `hrnv6rbj`    <br>
-Class Invitation Link: `https://classroom.google.com/c/ODA2NDM1MTQ4ODY4?cjc=hrnv6rbj`
-
-## Google Classroom for 64B Evening
-Class Code: `otgtklns`    <br>
-Class Invitation Link: `https://classroom.google.com/c/ODA2NDM3MDg5MjYw?cjc=otgtklns`
+[Gradient Descent Slide](https://docs.google.com/presentation/d/1WZQjDztA-vrf7zsqGI5Uk0W_4b-iJNxxm9p0_cpx6b4/edit?usp=sharing)
