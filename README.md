@@ -25,4 +25,4 @@
 
 <hr>
 
-[Gradient Descent Slide](https://docs.google.com/presentation/d/1WZQjDztA-vrf7zsqGI5Uk0W_4b-iJNxxm9p0_cpx6b4/edit?usp=sharing)
+[AI Lab CT](https://docs.google.com/spreadsheets/d/1FZcv1JvM-uru4fmLzH2hwNkuc_aGqgRQ/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
