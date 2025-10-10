@@ -26,3 +26,4 @@
 <hr>
 
 [AI Lab CT](https://docs.google.com/spreadsheets/d/1FZcv1JvM-uru4fmLzH2hwNkuc_aGqgRQ/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+[CT Question](https://docs.google.com/document/d/1t575RMYCURCHpig73AhGQYkDosKGaVP6j18zAtYoGwg/edit?usp=sharing)
