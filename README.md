@@ -14,6 +14,7 @@
 2. [Combinational Circuit Part-1](https://docs.google.com/presentation/d/1LwXmuA5q_XDKRt1mWYdYfHa7rsKKPXCf/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 3. [Combinational Circuit Part-2, Optimization](https://docs.google.com/presentation/d/1LekSHhzIGL7wsS6gIGJ4S2nRFU12QH3W/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. [Adder](https://docs.google.com/presentation/d/1ajonzlDzjxm6o2rodL_vFa-bWIx4NaCC/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+4. [Decoder](https://docs.google.com/presentation/d/1IoErUUb2zN_XWEZGmyi0mA9zvd3Tatky/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
 
