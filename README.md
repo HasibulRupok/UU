@@ -16,6 +16,7 @@
 4. [Encoder, Multiplexer, Adder](https://docs.google.com/presentation/d/1ajonzlDzjxm6o2rodL_vFa-bWIx4NaCC/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. [Decoder](https://docs.google.com/presentation/d/19A6s4EZTxVmkljHmP_rBtLIyztZFA3mK/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. [Decoder_2](https://docs.google.com/presentation/d/1IoErUUb2zN_XWEZGmyi0mA9zvd3Tatky/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+4. [Demultiplexer](https://docs.google.com/presentation/d/1TUYkuppmjR20JU7gqYS4okDQT06FfhPjzt1x9q1-8ao/edit?usp=sharing)
 
 <hr>
 
