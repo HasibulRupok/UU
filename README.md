@@ -25,6 +25,7 @@
 2. [Uninformed Search](https://docs.google.com/presentation/d/1-JpqGdtHhl-efF2EvQN1F3YI62dCi4aC/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 3. [Informed Search](https://docs.google.com/presentation/d/1TtsSuGyfUxRGYKTCH-ccEu99nUxUkKqU/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. [CSPs](https://docs.google.com/presentation/d/1Ky5q6IlhR2zCq08mwYqDKe-o9oOflUna/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+5. [Probability](https://docs.google.com/presentation/d/1Lrihtd9QpkFhMLwzqlDMGAcsivEMeYqx/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
 
