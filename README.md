@@ -19,6 +19,7 @@
 4. [Demultiplexer](https://docs.google.com/presentation/d/1TUYkuppmjR20JU7gqYS4okDQT06FfhPjzt1x9q1-8ao/edit?usp=sharing)
 ## Sequential Circuit
 1.  [Sequention~1](https://docs.google.com/presentation/d/1yRPdgPUEh7wvNxrt4RpcE205ZOBYTg4W/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+2.  [Sequention~2(seq recognizer)](https://docs.google.com/presentation/d/1KWk9vr43mUWLUw_4E9PIruWvqt5v9lk-/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
 
