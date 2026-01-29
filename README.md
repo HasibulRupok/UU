@@ -10,7 +10,7 @@
 > <h2>Slides</h2>
 1. [Chapter 1](https://docs.google.com/presentation/d/16YvLQzlNXizLfQ_PM1JtYuO-3WFDEKnA-p5--UHwNL8/edit?usp=sharing)
 2. [Chapter 2](https://docs.google.com/presentation/d/1Oirzbbb2MpxcIIGc6Nsrv7HB6fn8BLWFspY-NY2wFXY/edit?usp=sharing)
-2. [Chapter 3](https://docs.google.com/presentation/d/15qawsRfW0Ku6_wkdWeWGzBwmTkAnJkCj/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+2. [Project Planning](https://docs.google.com/presentation/d/1965NVAjMXXmfGNbFBqBe7xKYMNzDlMUP/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
 
