@@ -6,12 +6,8 @@
 > Book Link : https://docs.google.com/presentation/d/1L6_GrPh8rYOUK6R-PcUNJulZAPhCVBRT/edit?usp=drive_link&ouid=100171614600270688299&rtpof=true&sd=true
 
 <hr>
-
 > <h2>Slides</h2>
-1. [Chapter 1](https://docs.google.com/presentation/d/16YvLQzlNXizLfQ_PM1JtYuO-3WFDEKnA-p5--UHwNL8/edit?usp=sharing)
-2. [Chapter 2](https://docs.google.com/presentation/d/1Oirzbbb2MpxcIIGc6Nsrv7HB6fn8BLWFspY-NY2wFXY/edit?usp=sharing)
-2. [Project Planning & COCOMO](https://docs.google.com/presentation/d/1zp2iHvxF50SGlqG1BAe-MNiS1KugSpxz/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
-3. [Project Management](https://docs.google.com/presentation/d/1t1AjO_KrNRgEGw9JuV2VvEFlVJ4AiNHQ/edit?usp=sharing&ouid=100171614600270688299&rtpof=true&sd=true)
+1. [Testing](https://docs.google.com/presentation/d/1SjoWHRN6CD37ayfzDamqtOfbJMG3zHoc/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
 
