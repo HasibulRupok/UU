@@ -8,6 +8,7 @@
 <hr>
 > <h2>Slides</h2>
 1. [Testing] (https://docs.google.com/presentation/d/1SjoWHRN6CD37ayfzDamqtOfbJMG3zHoc/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+2. [System](https://docs.google.com/presentation/d/1gW0qDzAk8VznSvHcpo2xoHQ89N-sF9dW/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
 
