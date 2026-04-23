@@ -1,6 +1,9 @@
 # This repo is used to distribute the course contents to my Uttara University students
 <hr><hr><hr>
 
+# CRT Presentation
+https://docs.google.com/presentation/d/1EDyxzamHf_TjRuF-n-XTYFI6Rif7fTMY/edit?usp=sharing&ouid=107582418038520539217&rtpof=true&sd=true
+
 # Software Engineering
 > <h2>Follow This Text Book</h2>
 > Book Link : https://docs.google.com/presentation/d/1L6_GrPh8rYOUK6R-PcUNJulZAPhCVBRT/edit?usp=drive_link&ouid=100171614600270688299&rtpof=true&sd=true
