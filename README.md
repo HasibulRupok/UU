@@ -1,17 +1,8 @@
 # This repo is used to distribute the course contents to my Uttara University students
 <hr><hr><hr>
 
-# CRT Presentation
-https://docs.google.com/presentation/d/1EDyxzamHf_TjRuF-n-XTYFI6Rif7fTMY/edit?usp=sharing&ouid=107582418038520539217&rtpof=true&sd=true
-
-# Software Engineering
-> <h2>Follow This Text Book</h2>
-> Book Link : https://docs.google.com/presentation/d/1L6_GrPh8rYOUK6R-PcUNJulZAPhCVBRT/edit?usp=drive_link&ouid=100171614600270688299&rtpof=true&sd=true
-
-<hr>
-> <h2>Slides</h2>
-1. [Testing] (https://docs.google.com/presentation/d/1SjoWHRN6CD37ayfzDamqtOfbJMG3zHoc/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
-2. [System](https://docs.google.com/presentation/d/1gW0qDzAk8VznSvHcpo2xoHQ89N-sF9dW/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+# AI
+1. [Slide-1](https://docs.google.com/presentation/d/1GgR562fKwhKdBrASByfNANSht88Y8ILF/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
 
