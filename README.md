@@ -2,7 +2,7 @@
 <hr><hr><hr>
 
 # AI
-1. [Slide-1](https://docs.google.com/presentation/d/1GgR562fKwhKdBrASByfNANSht88Y8ILF/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+1. [Intro of AI course](https://docs.google.com/presentation/d/1GgR562fKwhKdBrASByfNANSht88Y8ILF/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 2. [Agents](https://docs.google.com/presentation/d/1i9jG1T3-KJL7prKn-sOT0dt4po5MUUHS/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 3. [Uninformed Cost Search- main](https://docs.google.com/presentation/d/1G7m9oBttuslxVZLf2M6ERdHJyAn5y4TX/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. [Uninformed Cost Search - UofC](https://docs.google.com/presentation/d/1H222g6-UAHoivywDy38g24YGHWOOiB7Q/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
