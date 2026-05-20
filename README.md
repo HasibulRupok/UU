@@ -8,7 +8,9 @@
 4. [Uninformed Cost Search - UofC](https://docs.google.com/presentation/d/1H222g6-UAHoivywDy38g24YGHWOOiB7Q/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
 <hr>
+
 # AI Lab
+
 1. [Linear Regression](https://docs.google.com/presentation/d/1QrCVi2FqAVEHBuvnF2qDeeRQq8FihMLYcf-9Wn9_bEE/edit?usp=sharing)
 
 <hr>
