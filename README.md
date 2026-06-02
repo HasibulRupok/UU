@@ -6,6 +6,7 @@
 2. [Agents](https://docs.google.com/presentation/d/1i9jG1T3-KJL7prKn-sOT0dt4po5MUUHS/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 3. [Uninformed Cost Search- main](https://docs.google.com/presentation/d/1G7m9oBttuslxVZLf2M6ERdHJyAn5y4TX/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. [Uninformed Cost Search - UofC](https://docs.google.com/presentation/d/1H222g6-UAHoivywDy38g24YGHWOOiB7Q/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
+5. [Informed Search - UofC](https://docs.google.com/presentation/d/1oAeQVeKBok-i2wbh41Cppd9G7jZpuloQ/edit?usp=sharing&ouid=106964100148527775256&rtpof=true&sd=true)
 
 <hr>
 
