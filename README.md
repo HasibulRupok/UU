@@ -23,3 +23,9 @@
 3. [Slide 3](https://docs.google.com/presentation/d/13CNMUaoAgGuJWlhCoj8_T16uPVne7IHy/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 4. [Slide 4](https://docs.google.com/presentation/d/1b8jbaOxU0Hse3ybMERHTZk6eM2KP6ZaU/edit?usp=sharing&ouid=114419490922214411323&rtpof=true&sd=true)
 
+# Obaject Oriented Programming (java)
+> <h2> Slides </h2>
+1. [Slide - 1](https://drive.google.com/file/d/1NU_Z1of6-DpGDUqDBIZPDuVkqm2BFcIT/view?usp=sharing)
+1. [Slide - 2](https://drive.google.com/file/d/178xDA-v9DEXxD0tUrG8WfQrIlvPQEqRq/view?usp=sharing)
+1. [Slide - 3](https://drive.google.com/file/d/1k4RD9C_EjJarnGl6lCWzBs7xrVX9PkPC/view?usp=sharing)
+1. [Slide - 4](https://drive.google.com/file/d/1PkAoYPNecPZTEqLrJreHYIh8cKnvMvbw/view?usp=sharing)
