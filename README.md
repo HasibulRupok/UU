@@ -37,3 +37,5 @@
 1. [Slide -2](https://drive.google.com/file/d/1FBIp3uJCJvXnJOajFC238xavy2_pLe-B/view?usp=sharing)
 1. [Slide -3](https://drive.google.com/file/d/1qeZuv-WdAdMW6RodeJIteD5xa5v1SLkT/view?usp=sharing)
 1. [Slide -4](https://drive.google.com/file/d/1ihf1b2MkwONFMqPQ8vZ6MH7LWk8Z2Lot/view?usp=sharing)
+
+> [HR Scima](https://drive.google.com/file/d/1VJRJbndEbDksquH1c-7jtitdwBmIAyA4/view?usp=sharing)
