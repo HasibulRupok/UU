@@ -30,3 +30,10 @@
 1. [Slide - 2](https://drive.google.com/file/d/178xDA-v9DEXxD0tUrG8WfQrIlvPQEqRq/view?usp=sharing)
 1. [Slide - 3](https://drive.google.com/file/d/1k4RD9C_EjJarnGl6lCWzBs7xrVX9PkPC/view?usp=sharing)
 1. [Slide - 4](https://drive.google.com/file/d/1PkAoYPNecPZTEqLrJreHYIh8cKnvMvbw/view?usp=sharing)
+
+# DBMS
+> Slides
+1. [Slide -1](https://drive.google.com/file/d/1-PuYldIaxCaQYNFLM1C6_Soo__-PLouI/view?usp=sharing)
+1. [Slide -2](https://drive.google.com/file/d/1FBIp3uJCJvXnJOajFC238xavy2_pLe-B/view?usp=sharing)
+1. [Slide -3](https://drive.google.com/file/d/1qeZuv-WdAdMW6RodeJIteD5xa5v1SLkT/view?usp=sharing)
+1. [Slide -4](https://drive.google.com/file/d/1ihf1b2MkwONFMqPQ8vZ6MH7LWk8Z2Lot/view?usp=sharing)
